@@ -36,10 +36,10 @@ chicago-spokane-referee-blue-wrilgey-chocolate
 - Data Types
 - nullables
 - Analyzers
+- string interpolation
 
 ### 10/10
 
-- Inheritance
 - Properties
 - Methods
 
@@ -47,35 +47,42 @@ chicago-spokane-referee-blue-wrilgey-chocolate
 
 ### 10/15
 
--  string interpolation
--  nullability/testing continuation
+- Inheritence cont.
+- nullability continuation
 
 ### 10/17
 
-- Interfaces
+- Explicit vs implicit interface implementation
+- Extension Methods
 
 ## Week 5 - Assignment 4
 
 ### 10/22
 
-- Interfaces
+- Local Functions
+- ref vs value types & structs
+- reference vs value equality
+- Structs
+- Records
 
 ### 10/24
 
-- Explicit vs implicit interface implementation
-- Pattern matching
-- Mocking
+- Interfaces/virtual
+- Overriding object members
+- Mocking - Test double
 
 ## Week 6 - Assignment 5
 
 ### 10/29
 
-- ref vs value types
-- record classes
+- Pattern matching
+- Well formed types
+  - Operator Overloading
+  - Referencing other assemblies
+  - Exception Handling
 
 ### 10/31
 
-- Exception Handling
 - using statements
 - Dispose
 
